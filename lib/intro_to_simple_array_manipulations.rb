@@ -43,7 +43,7 @@ def using_delete (array, element)
 end
 
 def using_delete_alt (array, index)
-    array.delete_at(index-1)
+    array.delete_at(index)
 end
   
   
